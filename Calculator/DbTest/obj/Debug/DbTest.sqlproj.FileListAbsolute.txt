@@ -1,0 +1,10 @@
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\bin\Debug\DbTest.dacpac
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\bin\Debug\DbTest.dll
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\bin\Debug\DbTest.pdb
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\DbTest.sqlproj.AssemblyReference.cache
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\Model.xml
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\refactor.xml
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\postdeploy.sql
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\predeploy.sql
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\DbTest.dll
+C:\Users\admin\Downloads\KTPM\Calculator\DbTest\obj\Debug\DbTest.pdb
